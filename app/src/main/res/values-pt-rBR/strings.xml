@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">PetShop</string>
+    <string name="action_settings">Configurações </string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="proximo">Próximo</string>
+    <string name="anterior">Anterior</string>
+    <string name="labelUsuario">Usuario</string>
+    <string name="labelSenha">Senha</string>
+    <string name="botaoLogar">Logar</string>
+    <string name="hintNomeCao">Nome do cão...</string>
+    <string name="hintNomeDono">Nome do dono...</string>
+    <string name="hintEndereco">Endereço...</string>
+    <string name="botaoSalvar">Salvar</string>
+    <string name="hintIdadeCao">Idade do cão</string>
+    <string name="hintLogin">Digite seu login</string>
+    <string name="hintSenha">Digite sua Senha</string>
+    <string name="dono">Dono</string>
+    <string name="cao">Nome do Cão</string>
+    <string name="idade">Idade do Cão</string>
+    <string name="endereco">Endereço</string>
+    <string name="txtAtencao">Atenção</string>
+    <string name="btSair">Sair</string>
+    <string name="hintNomeCaoFormulario">Digite o nome do cão...</string>
+    <string name="hintNomeDonoFormulario">Digite o nome do dono...</string>
+    <string name="hintEnderecoFormulario">Digite o endereço...</string>
+    <string name="idadePetLabelFormulario">Qual a idade do pet: </string>
+    <string name="hintSpinnerFormulario">Selecione</string>
+    <string name="erroLogin">Usuario ou senha inválidos</string>
+    <string name="btnTentarNovamente">Tentar novamente</string>
+
+    <string-array name="arrayIdadeCao">
+        <item>Selecione...</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+</resources>

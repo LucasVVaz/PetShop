@@ -1,0 +1,58 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Documentos\\petshop\\trabalho-N1-app-pet-shop-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lucas\\.gradle\\caches\\transforms-2\\files-2.1\\49a425eb020aa8d9cffc945a2839e23d\\appcompat-1.1.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,38",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,170,254,338,434,536,638,3315",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "165,249,333,429,531,633,727,3399"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lucas\\.gradle\\caches\\transforms-2\\files-2.1\\deeb075feedbe52ffb4e36f5b698af53\\material-1.1.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,39,40,41,42,43,44,45",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1453,1541,1665,1767,1869,1985,2087,2201,2329,2445,2567,2703,2823,2957,3077,3189,3404,3542,3666,3796,3918,4056,4172",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,137,123,129,121,137,115,119",
+                        "endOffsets": "1536,1660,1762,1864,1980,2082,2196,2324,2440,2562,2698,2818,2952,3072,3184,3310,3537,3661,3791,3913,4051,4167,4287"
+                    }
+                },
+                {
+                    "source": "D:\\Documentos\\petshop\\trabalho-N1-app-pet-shop-main\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "832"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "732",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1448"
+                    }
+                }
+            ]
+        }
+    ]
+}

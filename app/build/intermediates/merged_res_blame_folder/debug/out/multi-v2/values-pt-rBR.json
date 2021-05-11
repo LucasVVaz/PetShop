@@ -1,0 +1,152 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Documentos\\petshop\\trabalho-N1-app-pet-shop-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
+            "map": [
+                {
+                    "source": "D:\\Documentos\\petshop\\trabalho-N1-app-pet-shop-main\\app\\src\\main\\res\\values-pt-rBR\\dimens.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "29",
+                        "startColumns": "4",
+                        "startOffsets": "1031",
+                        "endColumns": "41",
+                        "endOffsets": "1068"
+                    }
+                },
+                {
+                    "source": "D:\\Documentos\\petshop\\trabalho-N1-app-pet-shop-main\\app\\src\\main\\res\\values-pt-rBR\\strings.xml",
+                    "from": {
+                        "startLines": "34,2,9,1,12,16,25,32,21,20,23,31,3,5,6,15,28,17,18,13,26,14,27,19,30,22,29,11,10,8,4,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1791,63,457,17,600,814,1256,1724,1068,1029,1161,1658,123,255,326,760,1449,862,917,646,1297,702,1372,973,1597,1113,1522,554,504,412,188,1208",
+                        "endLines": "51,2,9,1,12,16,25,32,21,20,23,31,3,5,6,15,28,17,18,13,26,14,27,19,30,22,29,11,10,8,4,24",
+                        "endColumns": "19,58,45,44,44,46,39,63,43,37,45,64,63,69,82,52,71,53,54,54,73,56,75,54,59,46,73,44,48,43,65,46",
+                        "endOffsets": "2257,117,498,57,640,856,1291,1783,1107,1062,1202,1718,182,320,404,808,1516,911,967,696,1366,754,1443,1023,1652,1155,1591,594,548,451,249,1250"
+                    },
+                    "to": {
+                        "startLines": "2,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,87,89,91",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "150,3811,3870,3916,3961,4006,4053,4093,4157,4201,4239,4285,4350,4414,4484,4567,4620,4692,4746,4801,4856,4930,4987,5063,5118,5178,5225,5299,5344,5625,5754,5921",
+                        "endLines": "19,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,87,89,91",
+                        "endColumns": "19,58,45,44,44,46,39,63,43,37,45,64,63,69,82,52,71,53,54,54,73,56,75,54,59,46,73,44,48,43,65,46",
+                        "endOffsets": "599,3865,3911,3956,4001,4048,4088,4152,4196,4234,4280,4345,4409,4479,4562,4615,4687,4741,4796,4851,4925,4982,5058,5113,5173,5220,5294,5339,5388,5664,5815,5963"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lucas\\.gradle\\caches\\transforms-2\\files-2.1\\e601daed4ba62929db8b322b2974c8f8\\core-1.1.0\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "90",
+                        "startColumns": "4",
+                        "startOffsets": "5820",
+                        "endColumns": "100",
+                        "endOffsets": "5916"
+                    }
+                },
+                {
+                    "source": "D:\\Documentos\\petshop\\trabalho-N1-app-pet-shop-main\\app\\src\\main\\res\\values-pt-rBR\\themes.xml",
+                    "from": {
+                        "startLines": "2,24,16,26",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "102,1009,840,1110",
+                        "endLines": "14,24,19,26",
+                        "endColumns": "12,97,12,87",
+                        "endOffsets": "832,1102,995,1193"
+                    },
+                    "to": {
+                        "startLines": "92,105,106,110",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "5968,6689,6786,6943",
+                        "endLines": "104,105,109,110",
+                        "endColumns": "12,96,12,86",
+                        "endOffsets": "6684,6781,6938,7025"
+                    }
+                },
+                {
+                    "source": "D:\\Documentos\\petshop\\trabalho-N1-app-pet-shop-main\\app\\src\\main\\res\\values-pt-rBR\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "701",
+                        "endColumns": "56",
+                        "endOffsets": "753"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lucas\\.gradle\\caches\\transforms-2\\files-2.1\\225fcf3e8a055ca0f23e80da8feb9bb4\\navigation-ui-2.2.2\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "85,86",
+                        "startColumns": "4,4",
+                        "startOffsets": "5393,5505",
+                        "endColumns": "111,119",
+                        "endOffsets": "5500,5620"
+                    }
+                },
+                {
+                    "source": "D:\\Documentos\\petshop\\trabalho-N1-app-pet-shop-main\\app\\src\\main\\res\\values-pt-rBR\\ic_banner_background.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "646",
+                        "endColumns": "54",
+                        "endOffsets": "696"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lucas\\.gradle\\caches\\transforms-2\\files-2.1\\49a425eb020aa8d9cffc945a2839e23d\\appcompat-1.1.0\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,88",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1073,1193,1299,1406,1495,1596,1715,1800,1881,1972,2064,2159,2253,2354,2447,2542,2637,2728,2819,2903,3010,3121,3223,3331,3439,3549,3711,5669",
+                        "endColumns": "119,105,106,88,100,118,84,80,90,91,94,93,100,92,94,94,90,90,83,106,110,101,107,107,109,161,99,84",
+                        "endOffsets": "1188,1294,1401,1490,1591,1710,1795,1876,1967,2059,2154,2248,2349,2442,2537,2632,2723,2814,2898,3005,3116,3218,3326,3434,3544,3706,3806,5749"
+                    }
+                },
+                {
+                    "source": "D:\\Documentos\\petshop\\trabalho-N1-app-pet-shop-main\\app\\src\\main\\res\\values-pt-rBR\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "20,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "604,758,805,852,899,944,989",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "641,800,847,894,939,984,1026"
+                    }
+                }
+            ]
+        }
+    ]
+}

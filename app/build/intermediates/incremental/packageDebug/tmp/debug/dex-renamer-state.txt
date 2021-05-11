@@ -1,0 +1,7 @@
+#Thu May 06 10:55:50 BRT 2021
+base.0=D\:\\Documentos\\petshop\\trabalho-N1-app-pet-shop-main\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Documentos\\petshop\\trabalho-N1-app-pet-shop-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
